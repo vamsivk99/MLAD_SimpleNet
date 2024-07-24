@@ -14,8 +14,6 @@ Code Extensions for Advanced Machine Learning in Anomaly Detection course on Sim
 
 ##  Introduction
 
-This repo contains source code for **SimpleNet** implemented with pytorch.
-
 SimpleNet is a simple defect detection and localization network that built with a feature encoder, feature generator and defect discriminator. It is designed conceptionally simple without complex network deisng, training schemes or external data source.
 
 ## Get Started 
