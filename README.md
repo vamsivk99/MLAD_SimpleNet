@@ -1,4 +1,3 @@
-```markdown
 # MLAD_SimpleNet
 Code Extensions for Advanced Machine Learning in Anomaly Detection course on SimpleNet
 
@@ -47,7 +46,7 @@ Download the dataset from [here](https://www.mvtec.com/company/research/datasets
 
 #### VisA
 
-Download the dataset from [here]([https://github.com/zhangzjn/ADer/blob/main/data/README.md/###VisA].
+Download the dataset from [here](https://github.com/zhangzjn/ADer/blob/main/data/README.md).
 
 The dataset folders/files follow their original structure.
 
